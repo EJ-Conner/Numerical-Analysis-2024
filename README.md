@@ -1,4 +1,4 @@
-# Numerical Analysis 2024 🧪
+# Numerical Analysis 2024 
 
 Here are all the numerical methods I have created in 2024. This is a toolkit for exploring and applying fundamental numerical techniques. Whether you're a student, researcher, or developer, you'll find practical implementations and insightful visualizations here.
 
