@@ -41,7 +41,7 @@ This toolkit is organized into key numerical analysis categories:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/EJ-Conner/Numerical-Analysis-2024.git](https://github.com/EJ-Conner/Numerical-Analysis-2024.git)
+    git clone https://github.com/EJ-Conner/Numerical-Analysis-2024.git
     cd Numerical-Analysis-Tools
     ```
 2.  **Install Dependencies (if any):**
